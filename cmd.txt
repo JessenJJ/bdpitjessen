@@ -1,0 +1,38 @@
+git init
+
+Remote
+
+git remote <perintah> <argumen>
+
+
+add
+
+git add <direktori>
+git add . adalah save all
+git add biodata.txt img/download.png
+
+commit
+
+git commit -m "gambar github"
+
+push 
+git push <remote> <branch>
+git push origin master 
+
+Pull
+git pull <remote> <branch>
+git pull origin master
+
+branch
+git branch <option(hapus/ubah/dll)> <argumen>
+new branch
+git branch <nama>
+akan mengcopy branch ayam kita saat itu aktif dibuka di branch baru
+
+checkout
+git checkout ayam <name>
+
+merge
+git merge ayam <branch>
+
+hehehehehehehe
