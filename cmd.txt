@@ -27,12 +27,11 @@ branch
 git branch <option(hapus/ubah/dll)> <argumen>
 new branch
 git branch <nama>
-akan mengcopy branch ayam kita saat itu aktif dibuka di branch baru
+akan mengcopy branch kita saat itu aktif dibuka di branch baru
 
 checkout
-git checkout ayam <name>
+git checkout <name>
 
 merge
-git merge ayam <branch>
+git merge <branch>
 
-hehehehehehehe
