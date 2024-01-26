@@ -3,3 +3,5 @@ Jakarta
 
 Suka makan ayam
 Suka ngegame
+
+status: learning
