@@ -35,5 +35,8 @@ git checkout <name>
 merge
 git merge <branch>
 
+clone
+Git clone <git-url>
+
 
 
